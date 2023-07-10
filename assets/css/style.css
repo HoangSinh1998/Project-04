@@ -547,6 +547,7 @@ a {
 }
 .services-item__cta {
   display: flex;
+  cursor: pointer;
 }
 .services-item__link {
   color: #34396a;
@@ -1114,6 +1115,7 @@ input:focus-within {
 }
 .footer-left__img-btn:hover {
   opacity: 0.9;
+  transition: 0.4s;
 }
 .footer-left__img-btn {
   width: 45px;
